@@ -1,5 +1,5 @@
 # Set List Lab - Redux Delete
-
+ 
 ## Objectives
 
 1. Implement a delete button for each band, such that the store is appropriately updated.
